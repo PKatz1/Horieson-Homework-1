@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -87,12 +87,12 @@ aside{
     background-color: #2589bd;
 }
 
-figure{
+section{
     margin-bottom:32px;
     color:#ffffff;
     }
 
-figure img {
+section img {
     display:block;
     margin: 10px auto;
     max-width: 150px;
@@ -103,8 +103,7 @@ h3 {
     margin: 10px;
     text-align: center;
 }
-
-.search-engine-optimization {
+.body-class {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -113,47 +112,11 @@ h3 {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.body-class img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.body-class h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
